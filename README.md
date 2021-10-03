@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/donhasarrived" target="blank"><img src="https://img.shields.io/twitter/follow/donhasarrived?logo=twitter&style=for-the-badge" alt="donhasarrived" /></a> </p>
 
-- 🔭 I’m currently working on **Rivendell Gardens**
+- 🔭 I’m currently working on **Rivendell Gardens Website**
 
-- 🌱 I’m currently learning **Node, Express, React**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **any projects**
 
