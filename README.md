@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Don</h1>
+![DonBanner](https://user-images.githubusercontent.com/79483406/147840706-7dbe231d-3eb9-4231-89ce-e7006910f8b7.gif)
+
 <h3 align="center">A passionate Software Engineer located in Tampa, Florida</h3>
+
 
 <p align="left"> <a href="https://twitter.com/donhasarrived" target="blank"><img src="https://img.shields.io/twitter/follow/donhasarrived?logo=twitter&style=for-the-badge" alt="donhasarrived" /></a> </p>
 
